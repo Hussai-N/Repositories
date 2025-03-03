@@ -1,0 +1,7 @@
+https://github.com/Hussai-N/HOSTING-DEPLOY-A-STATIC-WEBPAGE-IN-AWS-USING-S3-BUCKET-AR-FREE-OF-COST
+
+https://github.com/Hussai-N/AUTOMATED-CSV-DATA-INGESTION-FROM-S3-TO-DYNAMODB-USING-AWS-LAMBDA
+
+https://github.com/Hussai-N/S3-EVENT-DRIVEN-AUTOMATION-USING-AWS-LAMBDA
+
+https://github.com/Hussai-N/S3-backed-file-management-process-on-EC2-using-an-IAM-role
